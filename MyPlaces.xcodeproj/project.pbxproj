@@ -47,7 +47,6 @@
 		057C83422157F16700A6D618 = {
 			isa = PBXGroup;
 			children = (
-				05210EC42161244E00DB8718 /* Places.swift */,
 				057C834D2157F16700A6D618 /* MyPlaces */,
 				057C834C2157F16700A6D618 /* Products */,
 				057C83642157FA1500A6D618 /* Frameworks */,
@@ -65,6 +64,7 @@
 		057C834D2157F16700A6D618 /* MyPlaces */ = {
 			isa = PBXGroup;
 			children = (
+				05210EC42161244E00DB8718 /* Places.swift */,
 				057C834E2157F16700A6D618 /* AppDelegate.swift */,
 				057C83502157F16700A6D618 /* FirstViewController.swift */,
 				057C83522157F16700A6D618 /* SecondViewController.swift */,
