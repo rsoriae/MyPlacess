@@ -59,4 +59,5 @@ class ManagerPlaces{
     func GetItemAt(position:Int){
     
     }
+
 }
